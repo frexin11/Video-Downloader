@@ -50,7 +50,7 @@ YouTube, Instagram, Twitter and 1000+ websites.
 ## 🚀 How to Run
 
 ### 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/video-downloader
+git clone https://github.com/frexin11/video-downloader
 cd video-downloader
 
 ### 2. Create environment
