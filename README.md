@@ -13,10 +13,9 @@ YouTube, Instagram, Twitter and 1000+ websites.
 
 - 🌐 Download from 1000+ websites
 - 🎬 Multiple video quality options (480p, 720p, 1080p, Best)
-- 🎵 Audio only download (MP3)
+- 🎵 Audio-only download (MP3)
 - 📋 Video info preview before downloading
 - 🖼️ Thumbnail preview
-- 🎨 Clean dark themed UI
 
 ---
 
